@@ -1,3 +1,0 @@
-python3.8.8
-
-downloaded version is placed in the project folder itself
